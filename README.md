@@ -1,6 +1,6 @@
 # 电路计算工具
 
-<a href="https://github.com/G-SS-Hacker/Calculating-Tools-for-Electric-Circuit/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/G-SS-Hacker/Calculating-Tools-for-Electric-Circuit"></a><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/G-SS-Hacker/Calculating-Tools-for-Electric-Circuit">
+<a href="https://github.com/G-SS-Hacker/Calculating-Tools-for-Electric-Circuit/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/G-SS-Hacker/Calculating-Tools-for-Electric-Circuit"></a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/G-SS-Hacker/Calculating-Tools-for-Electric-Circuit">
 
 <p><font color="grey"> <em>Guderian出品</em> </font></p>
 
