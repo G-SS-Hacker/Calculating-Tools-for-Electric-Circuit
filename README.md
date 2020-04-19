@@ -9,16 +9,10 @@
 5. 相量直标式转极标式
 
 ## 使用方法
-### 我想Calculate
-1. 下载仓库压缩包
+1. Clone或Fork
 2. 解压缩
-3. 双击你解题所需要的可执行文件（后缀为exe）
+3. 用Code::blocks打开
 4. Enjoy!
-
-### 我想Hack
-1. Clone或Fork，随你
-2. 用Code::blocks打开
-3. Enjoy!
 
 ## 质量声明
 1. 经过一定量的测试
